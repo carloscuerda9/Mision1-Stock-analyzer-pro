@@ -24,17 +24,10 @@ Nota: Este repositorio refleja mi dedicación y esfuerzo en la creación de Stoc
 * Detección de Oportunidades: Identificación basada en el comportamiento histórico.
 * Gestión de Riesgos: Anticipación de fluctuaciones para una gestión efectiva.
 * Análisis Fundamental: Complemento esencial para evaluar ingresos, ganancias y fundamentos económicos.
+  
+ ![newplot (1)](https://github.com/carloscuerda9/Mision1-Stock-analyzer-pro/assets/157844996/1efcdf33-d555-4bd7-b51d-b7592511497d)
 
-2. PROYECCION LINEAL DEL PRECIO DE ACCIONES
-
-* Tendencia a Corto Plazo: Estimación rápida de la dirección potencial del mercado.
-* Análisis Técnico: Identificación de patrones y señales para toma de decisiones estratégicas.
-* Planificación Estratégica: Apoyo en la planificación de objetivos de rendimiento.
-* Indicación de Rupturas o Reversiones: Identificación de posibles cambios en la dirección de los precios.
-* Análisis de Riesgos: Evaluación del riesgo asociado con la inversión.
-* Nota: La proyección lineal es complementaria y no garantiza precisión a largo plazo.
-
-3. TENDENCIA EMA
+2. TENDENCIA EMA
 
 * Detección de Tendencias: Identificación a través de la Media Móvil Exponencial (EMA).
 * Análisis Técnico Refinado: Mejora del análisis técnico suavizando movimientos de precios.
@@ -42,8 +35,11 @@ Nota: Este repositorio refleja mi dedicación y esfuerzo en la creación de Stoc
 * Adaptabilidad a Cambios: Mayor sensibilidad a cambios recientes, adecuándose rápidamente.
 * Confirmación de Tendencias: Verificación de direcciones de tendencia a través de la EMA.
 * Nota: La Tendencia EMA es valiosa para operadores que buscan análisis técnico más refinado.
+  
+  ![image](https://github.com/carloscuerda9/Mision1-Stock-analyzer-pro/assets/157844996/0b49fee4-e938-40b4-89fc-c7b22b5ae252)
 
-4. CICLOS ESTACIONARIOS
+
+3. CICLOS ESTACIONARIOS
 
 * Identificación de Patrones Cíclicos: Reconocimiento de patrones repetitivos en los precios de acciones.
 * Predicción de Ciclos Recurrentes: Ayuda a prever períodos de aumento o disminución basados en comportamientos históricos.
@@ -51,8 +47,11 @@ Nota: Este repositorio refleja mi dedicación y esfuerzo en la creación de Stoc
 * Gestión de Riesgos: Facilita la gestión de riesgos al considerar posibles fluctuaciones cíclicas.
 * Mejora del Timing de Inversión: Optimiza el momento de entrada o salida del mercado.
 * Nota: Comprender ciclos estacionarios contribuye a estrategias más informadas y a la gestión eficiente del riesgo.
+  
+  ![image](https://github.com/carloscuerda9/Mision1-Stock-analyzer-pro/assets/157844996/bb4e91da-cc5d-4dab-b369-89c8566a6302)
 
-5. SIMULACION DE MONTE CARLO
+
+4. SIMULACION DE MONTE CARLO
    
 * Evaluación de Escenarios Probabilísticos: Modelización de múltiples escenarios posibles.
 * Gestión de Riesgos Complejos: Aborda la incertidumbre y complejidad del mercado.
@@ -60,11 +59,17 @@ Nota: Este repositorio refleja mi dedicación y esfuerzo en la creación de Stoc
 * Optimización de Decisiones: Ayuda a tomar decisiones informadas al proporcionar una visión amplia.
 * Validación de Estrategias: Evalúa la robustez de estrategias bajo diversas condiciones de mercado.
 * Nota: La Simulación de Monte Carlo es poderosa para comprender la variabilidad y mitigar riesgos.
+  
+  ![image](https://github.com/carloscuerda9/Mision1-Stock-analyzer-pro/assets/157844996/cafb1339-650c-45b3-bb9a-5019f575b43a)
 
-7. PROYECCION DE LA VOLATILIDAD
+
+5. PROYECCION DE LA VOLATILIDAD
    
 * Medición de la Incertidumbre: Evalúa la magnitud de las fluctuaciones de precios.
 * Gestión de Riesgos: Facilita una gestión efectiva de riesgos al anticipar cambios bruscos.
 * Ajuste de Estrategias: Permite ajustar estrategias de inversión en respuesta a niveles variables de volatilidad.
 * Predicción de Movimientos Extremos: Contribuye a la identificación de eventos inusuales.
 * Optimización de Portafolio: Ayuda a construir carteras equilibradas al considerar la volatilidad.
+  
+  ![image](https://github.com/carloscuerda9/Mision1-Stock-analyzer-pro/assets/157844996/5ff6d736-8b2d-4a90-81da-cbf98f0551a7)
+
