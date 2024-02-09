@@ -73,3 +73,14 @@ Nota: Este repositorio refleja mi dedicación y esfuerzo en la creación de Stoc
   
   ![image](https://github.com/carloscuerda9/Mision1-Stock-analyzer-pro/assets/157844996/5ff6d736-8b2d-4a90-81da-cbf98f0551a7)
 
+
+<h3>Bibliografía: </h3>
+
+* Bloomberg. (s/f). Bloomberg.com. Recuperado el 9 de febrero de 2024, de https://www.bloomberg.com/europe
+* International: Top news and analysis. (2016, septiembre 27). CNBC. https://www.cnbc.com/world/?region=world
+* Investopedia. (2018, agosto 7). Investopedia. https://www.investopedia.com/
+* Stockcharts.com. (s/f). Stockcharts.com. Recuperado el 9 de febrero de 2024, de https://stockcharts.com/
+* TradingView — track all markets. (s/f). TradingView. Recuperado el 9 de febrero de 2024, de https://www.tradingview.com/
+* Yahoo Finance - stock market live, quotes, business & finance news. (s/f). Yahoo.com. Recuperado el 9 de febrero de 2024, de https://finance.yahoo.com/
+  
+
